@@ -1,4 +1,4 @@
-# JobConnect 🚀
+# Job Pilot 🚀
 
 A fullstack MERN application where employees can sign up to explore and apply for jobs from various companies, while employers can post and manage job listings. Built with TypeScript and enhanced with smooth UI animations using Framer Motion.
 
